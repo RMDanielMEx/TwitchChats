@@ -1,0 +1,10 @@
+
+!!!!!!!!Dont erase Chats!!!!!!!!!!!!!!!!
+!!!!!!!!Dont erase Chats!!!!!!!!!!!!!!!!
+!!!!!!!!Dont erase Chats!!!!!!!!!!!!!!!!
+
+1) Edit start_script.bat for define your password and your username
+2) Clic in start_script
+3) Enter the name of the stream
+4) Wait 10 minutes for the first CSV
+5) For finish close or Ctrl+C
